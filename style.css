@@ -8,7 +8,7 @@ body {
 	font-family: MikadoRegular;
 	src: url("MikadoRegular.otf");
 	font-size : 14px;
-	letter-spacing: 0.7px; 
+	letter-spacing: 0.7px;
 }
 
 		a:link,
@@ -25,7 +25,7 @@ text-decoration : line-through;
 
 a:hover {
 color : #282828;
-text-decoration : line-through;
+text-decoration : none;
 }
 a img {
 border : medium none;
@@ -133,17 +133,28 @@ sub {
 }
 
 sub1 {
-	background-color: rgba(255,0,170,0.35);
+	background-color: #FF2D00;
 }
 
 sub2 {
-	background-color: rgba(250,170,0,0.4);
+	background-color: #FF8F00;
 }
 
 sub3 {
-	background-color: rgba(0,250,219,0.4);
+	background-color: #43E103;
 }
 
+sub4 {
+	background-color: #02FCF4;
+}
+
+sub5 {
+	background-color: #4C8DFF;
+}
+
+sub6 {
+	background-color: #B66CFF;
+}
 
 @font-face {
 			font-family: MikadoRegular;
