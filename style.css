@@ -156,6 +156,11 @@ sub6 {
 	background-color: #B66CFF;
 }
 
+sub7 {
+	background-color: #FFF;
+}
+
+
 @font-face {
 			font-family: MikadoRegular;
 			src: url("MikadoRegular.otf");
